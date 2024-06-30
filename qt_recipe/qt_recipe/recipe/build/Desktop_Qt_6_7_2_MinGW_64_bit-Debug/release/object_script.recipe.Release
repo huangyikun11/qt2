@@ -1,0 +1,16 @@
+release/main.o
+release/menu3.o
+release/menu4.o
+release/widget.o
+release/menu1.o
+release/menu2.o
+release/record.o
+release/check.o
+release/qrc_resource.o
+release/moc_widget.o
+release/moc_menu1.o
+release/moc_menu2.o
+release/moc_menu3.o
+release/moc_menu4.o
+release/moc_record.o
+release/moc_check.o
